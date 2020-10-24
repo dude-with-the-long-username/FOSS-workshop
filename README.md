@@ -103,6 +103,8 @@ Find good first issues:
 
 Translate projects to your native language
 
+[Mozilla Firefox](https://wiki.mozilla.org/L10n:Contribute) 
+
 [KDE Translation](https://community.kde.org/Get_Involved/translation)
 
 
