@@ -27,11 +27,13 @@ Operating system: Linux
 
 
 
-Web Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/) , Brave
 
-Office Suite(replaces Microsoft office): OnlyOffice, Libreoffice
 
-Photo editor: Gimp (alternative to photoshop), Darktable (alternative to lightroom), Krita(for digital artists)
+Web Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/) , [Brave](https://brave.com/)
+
+Office Suite(replaces Microsoft office): [OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx), [Libreoffice](https://www.libreoffice.org/download/download/)
+
+Photo editor: [Gimp(alternative to photoshop)](https://www.gimp.org/downloads/) , [Darktable (alternative to lightroom)](https://www.darktable.org/), [Krita(for digital artists)](https://krita.org/en)
 
 Video Editor: DaVinci Resolve(Free, not FOSS), Kdenlive, Olive
 
