@@ -51,7 +51,7 @@ Video Conferencing platform: Jitsi, Big Blue Button
 
 IDEs & Text editors: VScode, Eclipse, Brackets, Pycharm......
 
-
+Torrent: [Bigly](https://www.biglybt.com/)
 
 and tons more......
 
@@ -123,5 +123,7 @@ Translate projects to your native language
 ## Links
 
 [RITct](https://github.com/RITct/RITct-discussions/issues/3) - RIT Creative Team - Join the wonderful community of devs from RIT, Kottayam.
+
+[Nothing Private](https://github.com/gautamkrishnar/nothing-private) - A project showcasing privacy issues and some myth unfolds by [Gautam Krishna](https://github.com/gautamkrishnar)
 
 [RITsoft](https://bitbucket.org/tomsypaul/ritsoft/src/master/) - Contribute to RITsoft, RIT's Official Management Portal
