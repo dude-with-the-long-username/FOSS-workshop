@@ -35,27 +35,27 @@ Office Suite(replaces Microsoft office): [OnlyOffice](https://www.onlyoffice.com
 
 Photo editor: [Gimp](https://www.gimp.org/downloads/)(alternative to photoshop) , [Darktable](https://www.darktable.org/) (alternative to lightroom), [Krita](https://krita.org/en)(for digital artists)
 
-Video Editor: DaVinci Resolve(Free, not FOSS), Kdenlive, Olive
+Video Editor: [DaVinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve/)(Free, not FOSS), [Kdenlive](https://kdenlive.org/en/), [Olive](https://olivevideoeditor.org/)
 
-Video Player: VLC Media Player
+Video Player: [VLC Media Player](https://www.videolan.org/index.html)
 
-Graphics Designing software: Blender
+Graphics Designing software: [Blender](https://www.blender.org/)
 
-Messaging Service: Telegram, signal, element
+Messaging Service: [Telegram](https://telegram.org/), [signal](https://signal.org/en/), [element](https://element.io/)
 
-Watch Movies/TV series: Stremio
+Watch Movies/TV series: [Stremio](https://www.stremio.com/)
 
-Media Centre: Kodi
+Media Centre: [Kodi](https://kodi.tv/)
 
-Download Managers: Xtreme Download Manager, uget
+Download Managers: [Xtreme Download Manager](https://subhra74.github.io/xdm/), [uget](https://sourceforge.net/projects/urlget/)
 
-Video Conferencing platform: Jitsi, Big Blue Button
+Video Conferencing platform: [Jitsi](https://jitsi.org/), [BigBlueButton](https://bigbluebutton.org/)
 
-IDEs & Text editors: VScode, Eclipse, Brackets, Pycharm......
+IDEs & Text editors: [VScode](https://code.visualstudio.com/), [Eclipse](https://www.eclipse.org/), [Brackets](http://brackets.io/), [Pycharm](https://www.jetbrains.com/pycharm/)......
 
 Torrent Client: [qbittorrent](https://www.qbittorrent.org/), [Bigly](https://www.biglybt.com/)
 
-Host your movies in a Netflix like Interface: Jellyfin
+Host your movies in a Netflix like Interface: [Jellyfin](https://jellyfin.org/)
 
 and tons more......
 
