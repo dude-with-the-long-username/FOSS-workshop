@@ -33,7 +33,7 @@ Web Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/) , [Brave](htt
 
 Office Suite(replaces Microsoft office): [OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx), [Libreoffice](https://www.libreoffice.org/download/download/)
 
-Photo editor: [Gimp(alternative to photoshop)](https://www.gimp.org/downloads/) , [Darktable (alternative to lightroom)](https://www.darktable.org/), [Krita(for digital artists)](https://krita.org/en)
+Photo editor: [Gimp](https://www.gimp.org/downloads/)(alternative to photoshop) , [Darktable](https://www.darktable.org/) (alternative to lightroom), [Krita](https://krita.org/en)(for digital artists)
 
 Video Editor: DaVinci Resolve(Free, not FOSS), Kdenlive, Olive
 
@@ -43,7 +43,9 @@ Graphics Designing software: Blender
 
 Messaging Service: Telegram, signal, element
 
-Watch Movies/TV series: Stremio, Kodi
+Watch Movies/TV series: Stremio
+
+Media Centre: Kodi
 
 Download Managers: Xtreme Download Manager, uget
 
@@ -51,7 +53,9 @@ Video Conferencing platform: Jitsi, Big Blue Button
 
 IDEs & Text editors: VScode, Eclipse, Brackets, Pycharm......
 
-Torrent: [Bigly](https://www.biglybt.com/)
+Torrent Client: [qbittorrent](https://www.qbittorrent.org/), [Bigly](https://www.biglybt.com/)
+
+Host your movies in a Netflix like Interface: Jellyfin
 
 and tons more......
 
