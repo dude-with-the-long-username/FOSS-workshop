@@ -27,7 +27,9 @@ Operating system: Linux
 
 
 
-Web Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Brave](https://brave.com/)
+
+
+Web Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/) , [Brave](https://brave.com/)
 
 Office Suite(replaces Microsoft office): [OnlyOffice](https://www.onlyoffice.com/download-desktop.aspx), [Libreoffice](https://www.libreoffice.org/download/download/)
 
@@ -114,3 +116,10 @@ Translate projects to your native language
 1. Add links to all the mentioned software in the list
 2. Find more software & learning resources 
 
+
+
+## Links
+
+[RITct](https://github.com/RITct/RITct-discussions/issues/3) - RIT Creative Team - Join the wonderful community of devs from RIT, Kottayam.
+
+[RITsoft](https://bitbucket.org/tomsypaul/ritsoft/src/master/) - Contribute to RITsoft, RIT's Official Management Portal
