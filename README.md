@@ -91,13 +91,19 @@ and contribute
 
 
 
+Find good first issues:
+
+[Good first issue](https://goodfirstissue.dev/)
+
+[Code Triage](https://www.codetriage.com/)
+
 
 
 ### Non-code contributions:
 
 Translate projects to your native language
 
-
+[KDE Translation](https://community.kde.org/Get_Involved/translation)
 
 
 
