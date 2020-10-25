@@ -35,7 +35,7 @@ Office Suite(replaces Microsoft office): [OnlyOffice](https://www.onlyoffice.com
 
 Photo editor: [Gimp](https://www.gimp.org/downloads/)(alternative to photoshop) , [Darktable](https://www.darktable.org/) (alternative to lightroom), [Krita](https://krita.org/en)(for digital artists)
 
-Video Editor: DaVinci Resolve(Free, not FOSS), Kdenlive, [Olive](https://olivevideoeditor.org/)
+Video Editor: [DaVinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve/)(Free, not FOSS), [Kdenlive](https://kdenlive.org/en/), [Olive](https://olivevideoeditor.org/)
 
 Video Player: [VLC Media Player](https://www.videolan.org/index.html)
 
