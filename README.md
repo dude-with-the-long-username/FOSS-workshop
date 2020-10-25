@@ -103,6 +103,8 @@ Find good first issues:
 
 [Code Triage](https://www.codetriage.com/)
 
+[Guide-How to contribute](https://opensource.guide/how-to-contribute/)
+
 
 
 ### Non-code contributions:
