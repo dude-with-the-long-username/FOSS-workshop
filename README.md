@@ -42,6 +42,8 @@ Video Player: [VLC Media Player](https://www.videolan.org/index.html)
 
 Graphics Designing software: [Blender](https://www.blender.org/)
 
+Password Manager: [Bitwarden](https://bitwarden.com/)
+
 Messaging Service: [Telegram](https://telegram.org/), [signal](https://signal.org/en/), [element](https://element.io/)
 
 Watch Movies/TV series: [Stremio](https://www.stremio.com/)
