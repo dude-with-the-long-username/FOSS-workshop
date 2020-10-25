@@ -37,7 +37,7 @@ Photo editor: [Gimp](https://www.gimp.org/downloads/)(alternative to photoshop) 
 
 Video Editor: DaVinci Resolve(Free, not FOSS), Kdenlive, [Olive](https://olivevideoeditor.org/)
 
-Video Player: VLC Media Player
+Video Player: [VLC Media Player](https://www.videolan.org/index.html)
 
 Graphics Designing software: Blender
 
