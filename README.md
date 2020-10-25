@@ -49,7 +49,7 @@ Media Centre: [Kodi](https://kodi.tv/)
 
 Download Managers: Xtreme Download Manager, uget
 
-Video Conferencing platform: Jitsi, Big Blue Button
+Video Conferencing platform: [Jitsi](https://jitsi.org/), Big Blue Button
 
 IDEs & Text editors: VScode, Eclipse, Brackets, Pycharm......
 
