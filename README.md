@@ -45,7 +45,7 @@ Messaging Service: Telegram, signal, element
 
 Watch Movies/TV series: Stremio
 
-Media Centre: Kodi
+Media Centre: [Kodi](https://kodi.tv/)
 
 Download Managers: Xtreme Download Manager, uget
 
