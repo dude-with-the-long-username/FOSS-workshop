@@ -35,17 +35,17 @@ Office Suite(replaces Microsoft office): [OnlyOffice](https://www.onlyoffice.com
 
 Photo editor: [Gimp](https://www.gimp.org/downloads/)(alternative to photoshop) , [Darktable](https://www.darktable.org/) (alternative to lightroom), [Krita](https://krita.org/en)(for digital artists)
 
-Video Editor: DaVinci Resolve(Free, not FOSS), Kdenlive, Olive
+Video Editor: DaVinci Resolve(Free, not FOSS), Kdenlive, [Olive](https://olivevideoeditor.org/)
 
-Video Player: VLC Media Player
+Video Player: [VLC Media Player](https://www.videolan.org/index.html)
 
 Graphics Designing software: Blender
 
 Messaging Service: Telegram, signal, element
 
-Watch Movies/TV series: Stremio
+Watch Movies/TV series: [Stremio](https://www.stremio.com/)
 
-Media Centre: Kodi
+Media Centre: [Kodi](https://kodi.tv/)
 
 Download Managers: Xtreme Download Manager, uget
 
