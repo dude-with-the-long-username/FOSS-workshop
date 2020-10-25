@@ -43,7 +43,7 @@ Graphics Designing software: Blender
 
 Messaging Service: Telegram, signal, element
 
-Watch Movies/TV series: Stremio
+Watch Movies/TV series: [Stremio](https://www.stremio.com/)
 
 Media Centre: [Kodi](https://kodi.tv/)
 
