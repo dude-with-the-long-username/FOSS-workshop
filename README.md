@@ -35,6 +35,7 @@ Office Suite(replaces Microsoft office): [OnlyOffice](https://www.onlyoffice.com
 
 Photo editor: [Gimp](https://www.gimp.org/downloads/)(alternative to photoshop) , [Darktable](https://www.darktable.org/) (alternative to lightroom), [Krita](https://krita.org/en)(for digital artists)
 
+
 Video Editor: [DaVinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve/)(Free, not FOSS), [Kdenlive](https://kdenlive.org/en/), [Olive](https://olivevideoeditor.org/)
 
 Video Player: [VLC Media Player](https://www.videolan.org/index.html)
@@ -102,6 +103,8 @@ Find good first issues:
 [Good first issue](https://goodfirstissue.dev/)
 
 [Code Triage](https://www.codetriage.com/)
+
+[Guide-How to contribute](https://opensource.guide/how-to-contribute/)
 
 
 
