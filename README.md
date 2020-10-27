@@ -15,7 +15,7 @@ Repo with resources for FOSS workshop
 
 Operating system: Linux
 
-(My recommendations: [Manjaro](https://manjaro.org/)(Arch based), Pop OS(Ubuntu based), Elementary, Fedora....
+(My recommendations: [Manjaro](https://manjaro.org/)(Arch based), [Pop OS](https://pop.system76.com)(Ubuntu based), Elementary, Fedora....
 
 ​											Xubuntu, Peppermint, Puppy linux ( For Older hardware)
 
@@ -101,12 +101,15 @@ and contribute
 
 
 Find good first issues:
+[Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)
 
 [Good first issue](https://goodfirstissue.dev/)
 
 [Code Triage](https://www.codetriage.com/)
 
 [Guide-How to contribute](https://opensource.guide/how-to-contribute/)
+
+
 
 
 
