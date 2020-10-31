@@ -39,7 +39,7 @@ From the world's top 500 most powerful super computers, to the international spa
 <br>
 <br>
 <br>
-These are my recommended linux distros:<br>
+These are **my recommended linux** distros:<br>
     [Manjaro](https://manjaro.org/)(Arch based) (Manjaro KDE is my personal favourite),<br>
     [Linux mint](https://linuxmint.com/) & [Pop OS](https://pop.system76.com)(If you REALLY want to use a Debian or Ubuntu based distro ),<br>
     Fedora & OpenSuse (If you're super ultra FOSS loving and love being a dev),<br>
