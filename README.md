@@ -15,7 +15,7 @@ Repo with resources for FOSS workshop
 
 Operating system: Linux
 
-(My recommendations: [Manjaro](https://manjaro.org/)(Arch based), [Pop OS](https://pop.system76.com)(Ubuntu based), Elementary, Fedora....
+(My recommendations: [Manjaro](https://manjaro.org/)(Arch based), [Pop OS](https://pop.system76.com)(Ubuntu based), Elementary, [Fedora](https://getfedora.org/)....
 
 ​											Xubuntu, Peppermint, Puppy linux ( For Older hardware)
 
