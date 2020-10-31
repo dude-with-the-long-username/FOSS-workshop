@@ -51,7 +51,7 @@ From the world's top 500 most powerful super computers, to the international spa
 <br>
 <br>
 <br>
-These are **my recommended linux** distros:<br><br>
+These are **my recommended linux distros:** <br><br>
 
 * [Manjaro](https://manjaro.org/)(Arch based) (Manjaro KDE is my personal favourite),<br>
 
@@ -85,8 +85,9 @@ For your server:
 
 * Ubuntu Server, RHEL, CentOS<br>
 
-  For your TV:\
-      [KDE Plasma Bigscreen](https://dot.kde.org/2020/03/26/plasma-tv-presenting-plasma-bigscreen), OSMC, Libreelec (plug a $35 raspberry pi to your old normal TV and make it a smart tv!)
+For your TV:\
+
+* [KDE Plasma Bigscreen](https://dot.kde.org/2020/03/26/plasma-tv-presenting-plasma-bigscreen), OSMC, Libreelec (plug a $35 raspberry pi to your old normal TV and make it a smart tv!)
 
 <br>
 <br>
