@@ -17,7 +17,7 @@ Operating system: Linux
 
 (My recommendations: [Manjaro](https://manjaro.org/)(Arch based), [Pop OS](https://pop.system76.com)(Ubuntu based), Elementary, Fedora....
 
-​											Xubuntu, Peppermint, Puppy linux ( For Older hardware)
+​											[Xubuntu](https://xubuntu.org/), Peppermint, Puppy linux ( For Older hardware)
 
 ​											OpenWRT(For you router)
 
