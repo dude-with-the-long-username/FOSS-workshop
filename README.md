@@ -52,7 +52,7 @@ For Really old hardware:\
     Peppermint linux, Puppy linux ( Bring that 15-20 year old PC back to life!)
 
 For your router/modem:\
-    OpenWRT(Really feature rich & much more secure than your stock router firmware)
+    [OpenWRT](https://openwrt.org/) (Really feature rich & much more secure than your stock router firmware)
 
 Custom ROMs for your phone:\
     Good ROMs depend on each individual phone model & ROM maintainer. These are some commonly available ROMs available for a LOT of phone models.\
