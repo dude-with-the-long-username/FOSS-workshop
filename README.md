@@ -51,7 +51,7 @@ From the world's top 500 most powerful super computers, to the international spa
 <br>
 <br>
 <br>
-These are **my recommended linux distros:** <br><br>
+These are **MY recommended** linux distros: <br><br>
 
 * [Manjaro](https://manjaro.org/)(Arch based) (Manjaro KDE is my personal favourite),<br>
 
@@ -59,7 +59,7 @@ These are **my recommended linux distros:** <br><br>
 * Fedora & OpenSuse (If you're super ultra FOSS loving and love being a dev),<br>
 * MX linux, Antix (For your persistent carry everywhere USB drive)<br><br>
 
-For Less powerful hardware:\
+For Less powerful hardware:<br>
 
 * Manjaro xfce, Xubuntu, [Lubuntu](https://lubuntu.me/)<br>
 
@@ -71,11 +71,11 @@ For your router/modem:
 
 * [OpenWRT](https://openwrt.org/) (Really feature rich & much more secure than your stock router firmware)
 
-Custom ROMs for your phone:\
-    Good ROMs depend on each individual phone model & ROM maintainer. These are some commonly available ROMs available for a LOT of phone models.\
+Custom ROMs for your phone:<br>
+    Good ROMs depend on each individual phone model & ROM maintainer. These are some commonly available ROMs available for a LOT of phone models.
 
 * Lineage OS, Paranoid Android, Pixel Experience......(For your Android phone)\
-      (There maybe better ROMs for your phone based on these....search in your phone model's telegram group)\
+      (There maybe better ROMs for your phone based on these....search in your phone model's telegram group)<br>
 
 For your home server:	
 
