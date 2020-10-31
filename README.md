@@ -66,7 +66,7 @@ For your server:\
     Ubuntu Server, RHEL, CentOS
           
 For your TV:\
-    KDE Plasma Bigscreen, OSMC, Libreelec (plug a $35 raspberry pi to your old normal TV and make it a smart tv!)
+    [KDE Plasma Bigscreen](https://dot.kde.org/2020/03/26/plasma-tv-presenting-plasma-bigscreen), OSMC, Libreelec (plug a $35 raspberry pi to your old normal TV and make it a smart tv!)
 
 <br>
 <br>
