@@ -15,9 +15,11 @@ Repo with resources for FOSS workshop
 
 Operating system: Linux
 
+
 GNU/Linux is actually a kernel(the most basic part of an OS, responsible for communication of the OS with the attached hardware)
 
 As it is FOSS, there is a HUGE number of operating systems (or linux "distros") made based on it. Anyone can make a linux distro of their own with all the software & scripts they want to come loaded (yes, even YOU can make one).
+
 
 The Linux distros are really powerful, scalable, secure, robust, bloatware & spyware free, very lightweight too and above all **FREE** (free as in freedom!, not free as in free beer....these do take immense time & effort to develop. Consider donating to these devs when you get the chance.....atleast they don't collect your personal data and sell it advertisers like Microsoft does, for money......what??...you didn't know??....well........now you do.)
 Since they are FOSS, all the source code is freely available to the public so you can be sure that they don't come with any spyware pre-installed (even if you don't know how to check, the fact that _someone_ out there can check it, means noone will be foolish to load it with spyware.)
