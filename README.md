@@ -35,20 +35,18 @@ Although there are slight inconveniences _sometimes_ ( caused by other companies
 Since linux is super scalable you can use it on pretty much anything.<br>
 From the world's top 500 most powerful super computers, to the international space station, to the servers in the internet, to your old 20 year old PC that runs super slow, to your phones(yeah....Android is linux), to tiny embedded systems like the raspberry pi.
 
-
 <br>
 <br>
 <br>
-These are **my recommended linux** distros:<br>
-    [Manjaro](https://manjaro.org/)(Arch based) (Manjaro KDE is my personal favourite),<br>
+These are **my recommended linux** distros:<br>    [Manjaro](https://manjaro.org/)(Arch based) (Manjaro KDE is my personal favourite),<br>
     [Linux mint](https://linuxmint.com/) & [Pop OS](https://pop.system76.com)(If you REALLY want to use a Debian or Ubuntu based distro ),<br>
     Fedora & OpenSuse (If you're super ultra FOSS loving and love being a dev),<br>
     MX linux, Antix (For your persistent carry everywhere USB drive)<br>
 
 For Less powerful hardware:\
     Manjaro xfce, Xubuntu, [Lubuntu](https://lubuntu.me/)
-  
-For Really old hardware:\
+
+For Really old hardware:
     Peppermint linux, [Puppy linux](http://puppylinux.com/) ( Bring that 15-20 year old PC back to life!)
 
 For your router/modem:\
