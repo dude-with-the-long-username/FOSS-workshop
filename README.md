@@ -16,20 +16,33 @@ Repo with resources for FOSS workshop
 Operating system: Linux
 
 
+
 GNU/Linux is actually a kernel(the most basic part of an OS, responsible for communication of the OS with the attached hardware)
+
+
 
 As it is FOSS, there is a HUGE number of operating systems (or linux "distros") made based on it. Anyone can make a linux distro of their own with all the software & scripts they want to come loaded (yes, even YOU can make one).
 
 
+
 The Linux distros are really powerful, scalable, secure, robust, bloatware & spyware free, very lightweight too and above all **FREE** (free as in freedom!, not free as in free beer....these do take immense time & effort to develop. Consider donating to these devs when you get the chance.....atleast they don't collect your personal data and sell it advertisers like Microsoft does, for money......what??...you didn't know??....well........now you do.)<br>
+
+
+
 Since they are FOSS, all the source code is freely available to the public so you can be sure that they don't come with any spyware pre-installed (even if you don't know how to check, the fact that _someone_ out there can check it, means noone will be foolish to load it with spyware.)
 
+
+
 And compared to windows and mac os, linux is much more secure and usually much faster and usually much more efficient in using resources like RAM, disk space etc.
+
+
 
 So what's the catch? (Everything sound too good, right?)<br>
 There's got to be something bad about it right?<br>
 well.....not really<br>
 Although there are slight inconveniences _sometimes_ ( caused by other companies that refuse to make good linux drivers for their hardware or make their drivers FOSS....I'm looking at you Nvidia) ( You can still make it work tho...we'll talk about that later....or check out my blog that I'll be releasing in the near future).
+
+
 
 
 Since linux is super scalable you can use it on pretty much anything.<br>
@@ -38,7 +51,7 @@ From the world's top 500 most powerful super computers, to the international spa
 <br>
 <br>
 <br>
-These are **my recommended linux** distros:<br>    [Manjaro](https://manjaro.org/)(Arch based) (Manjaro KDE is my personal favourite),<br>
+These are **my recommended linux** distros:<br><br>    [Manjaro](https://manjaro.org/)(Arch based) (Manjaro KDE is my personal favourite),<br>
     [Linux mint](https://linuxmint.com/) & [Pop OS](https://pop.system76.com)(If you REALLY want to use a Debian or Ubuntu based distro ),<br>
     Fedora & OpenSuse (If you're super ultra FOSS loving and love being a dev),<br>
     MX linux, Antix (For your persistent carry everywhere USB drive)<br>
@@ -49,19 +62,16 @@ For Less powerful hardware:\
 For Really old hardware:
     Peppermint linux, [Puppy linux](http://puppylinux.com/) ( Bring that 15-20 year old PC back to life!)
 
-For your router/modem:\
-    [OpenWRT](https://openwrt.org/) (Really feature rich & much more secure than your stock router firmware)
+For your router/modem:    [OpenWRT](https://openwrt.org/) (Really feature rich & much more secure than your stock router firmware)
 
 Custom ROMs for your phone:\
     Good ROMs depend on each individual phone model & ROM maintainer. These are some commonly available ROMs available for a LOT of phone models.\
     Lineage OS, Paranoid Android, Pixel Experience......(For your Android phone)\
     (There maybe better ROMs for your phone based on these....search in your phone model's telegram group)\
 
-For your home server:\
-    OpenSUSE Leap
+For your home server:	OpenSUSE Leap
 
-For your server:\
-    Ubuntu Server, RHEL, CentOS
+For your server:    Ubuntu Server, RHEL, CentOS
           
 For your TV:\
     [KDE Plasma Bigscreen](https://dot.kde.org/2020/03/26/plasma-tv-presenting-plasma-bigscreen), OSMC, Libreelec (plug a $35 raspberry pi to your old normal TV and make it a smart tv!)
