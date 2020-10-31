@@ -46,7 +46,7 @@ These are my recommended linux distros:\
     MX linux, Antix (For your persistent carry everywhere USB drive)\
 
 For Less powerful hardware:\
-    Manjaro xfce, Xubuntu, Lubuntu
+    Manjaro xfce, Xubuntu, [Lubuntu](https://lubuntu.me/)
   
 For Really old hardware:\
     Peppermint linux, Puppy linux ( Bring that 15-20 year old PC back to life!)
