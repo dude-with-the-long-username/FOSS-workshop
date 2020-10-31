@@ -21,29 +21,29 @@ GNU/Linux is actually a kernel(the most basic part of an OS, responsible for com
 As it is FOSS, there is a HUGE number of operating systems (or linux "distros") made based on it. Anyone can make a linux distro of their own with all the software & scripts they want to come loaded (yes, even YOU can make one).
 
 
-The Linux distros are really powerful, scalable, secure, robust, bloatware & spyware free, very lightweight too and above all **FREE** (free as in freedom!, not free as in free beer....these do take immense time & effort to develop. Consider donating to these devs when you get the chance.....atleast they don't collect your personal data and sell it advertisers like Microsoft does, for money......what??...you didn't know??....well........now you do.)
+The Linux distros are really powerful, scalable, secure, robust, bloatware & spyware free, very lightweight too and above all **FREE** (free as in freedom!, not free as in free beer....these do take immense time & effort to develop. Consider donating to these devs when you get the chance.....atleast they don't collect your personal data and sell it advertisers like Microsoft does, for money......what??...you didn't know??....well........now you do.)<br>
 Since they are FOSS, all the source code is freely available to the public so you can be sure that they don't come with any spyware pre-installed (even if you don't know how to check, the fact that _someone_ out there can check it, means noone will be foolish to load it with spyware.)
 
 And compared to windows and mac os, linux is much more secure and usually much faster and usually much more efficient in using resources like RAM, disk space etc.
 
-So what's the catch? (Everything sound too good, right?)
-There's got to be something bad about it right?
-well.....not really
+So what's the catch? (Everything sound too good, right?)<br>
+There's got to be something bad about it right?<br>
+well.....not really<br>
 Although there are slight inconveniences _sometimes_ ( caused by other companies that refuse to make good linux drivers for their hardware or make their drivers FOSS....I'm looking at you Nvidia) ( You can still make it work tho...we'll talk about that later....or check out my blog that I'll be releasing in the near future).
 
 
-Since linux is super scalable you can use it on pretty much anything.
+Since linux is super scalable you can use it on pretty much anything.<br>
 From the world's top 500 most powerful super computers, to the international space station, to the servers in the internet, to your old 20 year old PC that runs super slow, to your phones(yeah....Android is linux), to tiny embedded systems like the raspberry pi.
 
 
 <br>
 <br>
 <br>
-These are my recommended linux distros:\
-    [Manjaro](https://manjaro.org/)(Arch based) (Manjaro KDE is my personal favourite),\
-    [Linux mint](https://linuxmint.com/) & [Pop OS](https://pop.system76.com)(If you REALLY want to use a Debian or Ubuntu based distro ),\
-    Fedora & OpenSuse (If you're super ultra FOSS loving and love being a dev),\
-    MX linux, Antix (For your persistent carry everywhere USB drive)\
+These are my recommended linux distros:<br>
+    [Manjaro](https://manjaro.org/)(Arch based) (Manjaro KDE is my personal favourite),<br>
+    [Linux mint](https://linuxmint.com/) & [Pop OS](https://pop.system76.com)(If you REALLY want to use a Debian or Ubuntu based distro ),<br>
+    Fedora & OpenSuse (If you're super ultra FOSS loving and love being a dev),<br>
+    MX linux, Antix (For your persistent carry everywhere USB drive)<br>
 
 For Less powerful hardware:\
     Manjaro xfce, Xubuntu, [Lubuntu](https://lubuntu.me/)
