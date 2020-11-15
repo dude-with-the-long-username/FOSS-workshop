@@ -107,7 +107,7 @@ Video Editor: [DaVinci Resolve](https://www.blackmagicdesign.com/in/products/dav
 
 Video Player: [VLC Media Player](https://www.videolan.org/index.html)
 
-Graphics Designing software: [Blender](https://www.blender.org/)
+3D Graphics Designing software: [Blender](https://www.blender.org/)
 
 Password Manager: [Bitwarden](https://bitwarden.com/)
 
