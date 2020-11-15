@@ -179,7 +179,8 @@ Find good first issues:
 [Guide-How to contribute](https://opensource.guide/how-to-contribute/)
 
 
-
+### Start Contributing
+[KDE Foundation](https://community.kde.org/Get_Involved)
 
 
 ### Non-code contributions:
